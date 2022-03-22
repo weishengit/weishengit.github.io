@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b788c18.css",
+    "main.js": "/static/js/main.039e2265.js",
+    "static/media/me2.png": "/static/media/me2.8519dee1878d7e2edcb9.png",
+    "static/media/about-me2.png": "/static/media/about-me2.63619d5b39f5fbf6e4a7.png",
+    "static/media/kardia.png": "/static/media/kardia.08b2ec285dfb52b86ece.png",
+    "static/media/dlord.jpg": "/static/media/dlord.4a8cebe91f2ff2e672c3.jpg",
+    "static/media/realestate.png": "/static/media/realestate.5afffcce6ae0709878ba.png",
+    "static/media/portfolio.png": "/static/media/portfolio.a7969551f47fc81fe435.png",
+    "static/media/pharma.png": "/static/media/pharma.4309eeb4ae95f4aafedd.png",
+    "static/media/magic.png": "/static/media/magic.09e41286968052c9677a.png",
+    "static/media/bg-img.png": "/static/media/bg-img.b7950e1044a3455d7133.png",
+    "static/media/cv.pdf": "/static/media/cv.c98d52fc163636dc0cc1.pdf",
+    "static/media/inv.png": "/static/media/inv.36b442fe4029126ca409.png",
+    "static/media/aubin.png": "/static/media/aubin.0defd3efb244ec7e45a4.png",
+    "static/media/jren.jpg": "/static/media/jren.4cfc8cd377a43412db6a.jpg",
+    "index.html": "/index.html",
+    "main.2b788c18.css.map": "/static/css/main.2b788c18.css.map",
+    "main.039e2265.js.map": "/static/js/main.039e2265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b788c18.css",
+    "static/js/main.039e2265.js"
+  ]
+}
