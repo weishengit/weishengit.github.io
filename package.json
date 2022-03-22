@@ -1,9 +1,9 @@
 {
   "name": "diego-portfolio-website",
-  "homepage": "https://weishengit.github.io",
   "version": "0.1.0",
   "engines": {
-    "node": "17.x"
+    "node": "17.1.x",
+    "npm": "8.1.x"
   },
   "private": true,
   "dependencies": {
@@ -19,8 +19,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
