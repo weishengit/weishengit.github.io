@@ -2,4 +2,6 @@ import ReactDOM  from "react-dom";
 import App from "./App";
 import './index.css';
 
-ReactDOM.render(<App />, document.querySelector("#root"));
+window.location.replace("https://jdiego-portfolio.herokuapp.com/);
+
+// ReactDOM.render(<App />, document.querySelector("#root"));
